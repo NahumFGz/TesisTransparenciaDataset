@@ -6,12 +6,14 @@ data/a_org/**/*.png
 data/a_org/**/*.jpg
 data/a_org/**/*.jpeg
 
+# Ignorar modelos preentrenados
+notebooks/d_train_straight_yolo/*.pt
+
 # Ignorar .rar, .zip
 *.zip
 *.7z
 *.parquet
 *labels.cache
-*.pt
 
 # Ignorar .env
 .env
