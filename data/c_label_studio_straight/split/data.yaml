@@ -1,5 +1,0 @@
-path: /home/nahumfg/Projects/GithubProjects/TesisTransparenciaDataset/data/c_label_studio_straight/split
-train: train/images
-val: val/images
-names:
-  0: documento  # 🔹 Cambia esto si tienes más clases
