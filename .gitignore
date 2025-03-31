@@ -14,6 +14,7 @@ notebooks/d_train_straight_yolo/*.pt
 *.7z
 *.parquet
 *labels.cache
+*resnet50_best_parallel.pth
 
 # Ignorar .env
 .env
